@@ -1,0 +1,52 @@
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\velisj\Git\NMC\CIT255\SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT255\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT255\CIT255 - Activities\Coding Activity - Ski Run Rater\S1\Demo_SkiRunRater\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\Ski\SkiRun\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\shawn\Desktop\Nick Temp\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe.config
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\Data\Data.txt
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.exe
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\bin\Debug\SkiRunRater.Sprint1.Starter.pdb
+C:\Users\twilk\Desktop\Sprint1Ski\SkiRun-master\SkiRunRater.Sprint1.Starter\SkiRunRater.Sprint1.Starter\obj\Debug\SkiRunRater.Sprint1.Starter.csprojResolveAssemblyReference.cache

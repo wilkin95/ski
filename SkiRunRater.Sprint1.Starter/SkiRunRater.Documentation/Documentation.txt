@@ -1,0 +1,19 @@
+﻿Solution:		Ski Run Rater Project
+Author:			John E Velis
+Created:		11/5/2015
+Last Modified:	11/29/2015
+
+Project:		Sprint 1
+Description:	Add and implement a repository to manage a text file
+				Manage the data in the repository using a list of SkiRuns
+
+Project:		Sprint 2
+Description:	Add and implement a repository to manage an XML document
+				Manage the data in the repository using a list of SkiRuns
+
+Project:		Sprint 3
+Description:	Add and implement a repository to manage an XML document
+				Manage the data in the repository using a DataSet and DataTable
+
+Project:		Sprint 4
+Description:	
